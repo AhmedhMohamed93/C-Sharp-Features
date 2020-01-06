@@ -1,0 +1,9 @@
+c:\users\ahmed.mohamed\documents\visual studio 2017\Projects\ConsoleApp9\ConsoleApp9\bin\Debug\netcoreapp1.1\ConsoleApp9.deps.json
+c:\users\ahmed.mohamed\documents\visual studio 2017\Projects\ConsoleApp9\ConsoleApp9\bin\Debug\netcoreapp1.1\ConsoleApp9.runtimeconfig.json
+c:\users\ahmed.mohamed\documents\visual studio 2017\Projects\ConsoleApp9\ConsoleApp9\bin\Debug\netcoreapp1.1\ConsoleApp9.runtimeconfig.dev.json
+c:\users\ahmed.mohamed\documents\visual studio 2017\Projects\ConsoleApp9\ConsoleApp9\bin\Debug\netcoreapp1.1\ConsoleApp9.dll
+c:\users\ahmed.mohamed\documents\visual studio 2017\Projects\ConsoleApp9\ConsoleApp9\bin\Debug\netcoreapp1.1\ConsoleApp9.pdb
+c:\users\ahmed.mohamed\documents\visual studio 2017\Projects\ConsoleApp9\ConsoleApp9\obj\Debug\netcoreapp1.1\ConsoleApp9.csprojResolveAssemblyReference.cache
+c:\users\ahmed.mohamed\documents\visual studio 2017\Projects\ConsoleApp9\ConsoleApp9\obj\Debug\netcoreapp1.1\ConsoleApp9.AssemblyInfo.cs
+c:\users\ahmed.mohamed\documents\visual studio 2017\Projects\ConsoleApp9\ConsoleApp9\obj\Debug\netcoreapp1.1\ConsoleApp9.dll
+c:\users\ahmed.mohamed\documents\visual studio 2017\Projects\ConsoleApp9\ConsoleApp9\obj\Debug\netcoreapp1.1\ConsoleApp9.pdb
