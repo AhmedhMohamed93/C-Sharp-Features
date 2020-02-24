@@ -1,0 +1,7 @@
+C:\Users\Ahmed.Mohamed\Documents\Visual Studio 2017\Projects\CSharpFeatures\CSharpFeatures\obj\Debug\CSharpFeatures.csprojAssemblyReference.cache
+C:\Users\Ahmed.Mohamed\Documents\Visual Studio 2017\Projects\CSharpFeatures\CSharpFeatures\obj\Debug\CSharpFeatures.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed.Mohamed\Documents\Visual Studio 2017\Projects\CSharpFeatures\CSharpFeatures\bin\Debug\CSharpFeatures.exe.config
+C:\Users\Ahmed.Mohamed\Documents\Visual Studio 2017\Projects\CSharpFeatures\CSharpFeatures\bin\Debug\CSharpFeatures.exe
+C:\Users\Ahmed.Mohamed\Documents\Visual Studio 2017\Projects\CSharpFeatures\CSharpFeatures\bin\Debug\CSharpFeatures.pdb
+C:\Users\Ahmed.Mohamed\Documents\Visual Studio 2017\Projects\CSharpFeatures\CSharpFeatures\obj\Debug\CSharpFeatures.exe
+C:\Users\Ahmed.Mohamed\Documents\Visual Studio 2017\Projects\CSharpFeatures\CSharpFeatures\obj\Debug\CSharpFeatures.pdb
